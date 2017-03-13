@@ -1,0 +1,17 @@
+{
+  "name": "template-senada",
+  "authors": [
+    "Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "senada.nurulfikri.ac.id",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
